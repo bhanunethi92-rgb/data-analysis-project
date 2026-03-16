@@ -1,2 +1,11 @@
-# data-analysis-project
-Simple data analysis project using Python
+# Data Analysis Project
+
+This is my first GitHub project.
+
+In this project I will practice:
+- Python
+- SQL
+- Data Analysis
+- Data Visualization
+
+I will upload datasets and analysis files here.
